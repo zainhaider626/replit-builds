@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "ROBETIX — Robotics & Electronics"
+description = "A premium, light-theme robotics and electronics engineering website for ROBETIX, presenting PCB design, intelligent robotics, autonomous systems, drones, flexible electronics, projects, and a conversion-focused project inquiry experience."
+version = "1.0.0"
+id = "artifacts/robetix"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 22299
+
+[services.development]
+run = "pnpm --filter @workspace/robetix run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/robetix", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/robetix/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "22299"
+BASE_PATH = "/"

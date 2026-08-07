@@ -1,0 +1,1719 @@
+# MASTER WEBSITE DESIGN PROMPT — ROBETIX
+
+Build a **premium, futuristic, highly interactive robotics and electronics engineering company website** for my company **ROBETIX**.
+
+ROBETIX is a robotics, electronics, PCB design, embedded systems, automation, autonomous systems, drone/UAV, and intelligent robotics company.
+
+The website must feel like a combination of:
+
+* Premium robotics technology company
+* Advanced electronics engineering laboratory
+* High-end PCB design studio
+* Autonomous systems company
+* Futuristic industrial technology startup
+* Premium engineering portfolio
+* Modern AI/robotics research laboratory
+
+The website must look **extremely polished, professional, clean, futuristic, trustworthy, technical, and premium**.
+
+---
+
+# 1. PRIMARY VISUAL REFERENCE
+
+Use this Pinterest website/design as the **main visual inspiration and reference**:
+
+https://pin.it/1FjmdA9Yl
+
+IMPORTANT:
+
+Do not simply copy the website.
+
+Instead, study and reproduce the **design language, visual hierarchy, composition, spacing, typography, card styling, navigation behavior, image treatment, rounded elements, animations, transitions, and overall premium feel** of the reference.
+
+The final website should feel like it belongs to the same design family, while being an original ROBETIX website.
+
+Prioritize:
+
+* Similar visual sophistication
+* Similar clean composition
+* Similar premium UI
+* Similar spacing system
+* Similar rounded geometry
+* Similar visual hierarchy
+* Similar modern typography
+* Similar use of imagery
+* Similar smooth interactions
+* Similar minimalist presentation
+
+But make the branding, content, graphics, illustrations, and layouts original to ROBETIX.
+
+---
+
+# 2. BRAND
+
+Company name:
+
+ROBETIX
+
+Brand positioning:
+
+"Robotics. Electronics. Intelligence."
+
+Alternative supporting phrase:
+
+"Engineering the Intelligent Future."
+
+ROBETIX should be presented as a serious engineering and technology company rather than a generic robotics website.
+
+The website should communicate:
+
+* Engineering expertise
+* Innovation
+* Precision
+* Reliability
+* Advanced technology
+* Manufacturing readiness
+* Robotics expertise
+* Electronics expertise
+* Autonomous systems
+* Professional engineering services
+
+Avoid making it look like a generic template.
+
+---
+
+# 3. OVERALL DESIGN LANGUAGE
+
+Use a **light futuristic glassmorphism design system** throughout the entire website.
+
+The entire website should use a predominantly:
+
+* White
+* Off-white
+* Very light gray
+* Soft metallic
+* Subtle blue-gray
+
+visual environment.
+
+Do NOT use a dark website as the primary theme.
+
+The website must remain predominantly LIGHT THEME.
+
+Use subtle gradients and glass effects rather than heavy colors.
+
+Glass cards should have:
+
+* White/translucent backgrounds
+* Very subtle borders
+* Soft shadows
+* Background blur
+* Slight transparency
+* Large rounded corners
+* Premium depth
+
+Do not overuse glassmorphism.
+
+The glass effect should feel sophisticated and expensive, not like a generic futuristic template.
+
+---
+
+# 4. COLOR SYSTEM
+
+Primary background:
+
+#F7F8FA / near-white
+
+Secondary backgrounds:
+
+#FFFFFF
+
+Soft gray:
+
+#EEF1F4
+
+Primary text:
+
+#111318
+
+Secondary text:
+
+#606873
+
+Accent:
+
+Use a sophisticated electric blue / cyan accent.
+
+Accent colors may include:
+
+* Electric blue
+* Cyan
+* Soft sky blue
+* Very subtle violet-blue
+
+Use accents sparingly.
+
+The website must NOT become colorful.
+
+The overall impression should remain:
+
+WHITE + BLACK/CHARCOAL + SUBTLE BLUE/CYAN.
+
+---
+
+# 5. TYPOGRAPHY
+
+Use a premium modern sans-serif font.
+
+Recommended:
+
+* Inter
+* Geist
+* Manrope
+* Satoshi
+* Plus Jakarta Sans
+
+Use strong typography hierarchy.
+
+Large hero headings should be:
+
+* Extremely clean
+* Bold
+* Spacious
+* Modern
+* Short
+* High contrast
+
+Example:
+
+"ENGINEERING
+INTELLIGENCE
+INTO MOTION."
+
+or:
+
+"WE BUILD
+INTELLIGENT
+MACHINES."
+
+Use subtle letter spacing where appropriate.
+
+Do not use excessive futuristic fonts.
+
+The typography must remain highly readable.
+
+---
+
+# 6. NAVIGATION
+
+Create a premium floating navigation bar.
+
+Desktop navigation:
+
+ROBETIX logo on the left.
+
+Navigation items:
+
+* Home
+* Solutions
+* Robotics
+* PCB Design
+* Autonomous Systems
+* Drones & UAVs
+* Projects
+* About
+* Contact
+
+Right side:
+
+"Start a Project" button.
+
+Navigation should:
+
+* Be floating
+* Have rounded corners
+* Use glassmorphism
+* Have subtle blur
+* Have a thin border
+* Have smooth shadow
+* Remain sticky while scrolling
+* Shrink slightly when scrolling
+* Animate smoothly
+
+Logo should be minimalist and premium.
+
+ROBETIX text should be prominent.
+
+---
+
+# 7. HERO SECTION
+
+Create a visually stunning hero section.
+
+The hero must immediately communicate that ROBETIX is an advanced robotics + electronics engineering company.
+
+Hero headline:
+
+"ENGINEERING
+INTELLIGENCE
+INTO MOTION."
+
+Supporting text:
+
+"ROBETIX designs intelligent robotic systems, autonomous machines, advanced electronics, high-density PCBs, drones, UAVs, and next-generation embedded platforms."
+
+Primary CTA:
+
+"Start a Project"
+
+Secondary CTA:
+
+"Explore Our Work"
+
+---
+
+# 8. HERO VISUAL
+
+The hero should contain a sophisticated animated technical visualization.
+
+Create a large futuristic robotics/electronics scene.
+
+Possible visual:
+
+A premium robotic system positioned alongside a high-density PCB.
+
+The PCB should contain:
+
+* Dense SMD components
+* Microcontrollers
+* Sensors
+* BGA packages
+* High-speed traces
+* Fine-pitch components
+* Connectors
+* Power management
+* RF sections
+
+The PCB should slowly rotate or move.
+
+Add subtle animated signals traveling through traces.
+
+Add tiny glowing nodes.
+
+Add floating technical labels such as:
+
+"16-LAYER PCB"
+
+"AI CONTROL"
+
+"AUTONOMOUS"
+
+"48V POWER"
+
+"CAN-FD"
+
+"BLUETOOTH"
+
+"ROBOTICS"
+
+The animation must be subtle and premium.
+
+Avoid excessive neon.
+
+---
+
+# 9. HERO MICRO-INTERACTIONS
+
+When the user moves their mouse:
+
+* PCB responds slightly to cursor movement
+* Background elements move with subtle parallax
+* Glass cards respond with slight depth
+* Technical nodes shift slightly
+
+Buttons should have:
+
+* Hover elevation
+* Subtle glow
+* Smooth scale
+* Arrow movement
+
+Use smooth transitions around 200–400ms.
+
+Nothing should feel abrupt.
+
+---
+
+# 10. TRUST / CAPABILITY STRIP
+
+Immediately below the hero, create a horizontally scrolling or animated capability strip.
+
+Display:
+
+PCB DESIGN
+ROBOTICS
+AUTOMATION
+EMBEDDED SYSTEMS
+AUTONOMOUS SYSTEMS
+DRONES
+UAVs
+FLEX PCBs
+RIGID-FLEX
+STRETCHABLE PCBs
+HIGH-DENSITY ELECTRONICS
+
+Use minimalist typography.
+
+The strip should move slowly and continuously.
+
+---
+
+# 11. COMPANY INTRODUCTION
+
+Create a section titled:
+
+"FROM CIRCUIT TO MOTION."
+
+Text:
+
+"ROBETIX brings electronics, robotics, embedded intelligence, and mechanical systems together to create machines that sense, think, and move."
+
+Show three premium glass cards:
+
+### SENSE
+
+Sensors, perception, data acquisition and environmental awareness.
+
+### THINK
+
+Embedded intelligence, control systems, edge AI and decision-making.
+
+### MOVE
+
+Motors, actuators, robotics, autonomous navigation and mechanical systems.
+
+Each card should have a subtle animated technical illustration.
+
+---
+
+# 12. CORE SERVICES
+
+Create a premium services section.
+
+Title:
+
+"WHAT WE ENGINEER"
+
+Display large interactive cards.
+
+Services:
+
+### 01 — ROBOTICS
+
+Intelligent robotic systems designed for real-world environments.
+
+Include:
+
+* Mobile robots
+* Robotic platforms
+* Manipulators
+* Autonomous robots
+* Industrial robotics
+* Service robots
+
+Visual:
+
+Animated robotic arm / mobile robot.
+
+---
+
+### 02 — AUTOMATION SYSTEMS
+
+Intelligent automation solutions for industrial and commercial applications.
+
+Include:
+
+* Control systems
+* PLC integration
+* Motor control
+* Sensor integration
+* Machine automation
+* Industrial communication
+
+Visual:
+
+Animated automation architecture.
+
+---
+
+### 03 — ADVANCED PCB DESIGN
+
+Professional PCB engineering from concept to manufacturing-ready design.
+
+Highlight:
+
+"UP TO 16 LAYERS"
+
+Include:
+
+* 2-layer PCB
+* 4-layer PCB
+* 6-layer PCB
+* 8-layer PCB
+* 10-layer PCB
+* 12-layer PCB
+* 14-layer PCB
+* 16-layer PCB
+
+Capabilities:
+
+* High-density PCB
+* HDI
+* High-speed digital
+* Power electronics
+* RF
+* Embedded systems
+* BGA
+* Fine-pitch components
+* DFM
+* DRC
+* Manufacturing preparation
+
+Visual:
+
+A continuously moving high-density PCB.
+
+---
+
+# 13. FLEXIBLE ELECTRONICS
+
+Create a visually impressive section dedicated to advanced PCB technologies.
+
+Title:
+
+"ENGINEERED TO BEND."
+
+Display three large interactive cards:
+
+### FLEXIBLE PCB
+
+Thin flexible electronics for compact and dynamic applications.
+
+### RIGID-FLEX PCB
+
+Rigid and flexible PCB technologies combined into one engineered platform.
+
+### STRETCHABLE PCB
+
+Stretchable/elastomeric electronics for advanced robotics, wearables, soft robotics and human-machine interfaces.
+
+For the stretchable PCB visual:
+
+Show an animated flexible PCB bending and stretching.
+
+For rigid-flex:
+
+Show rigid sections connected by flexible regions.
+
+For flex PCB:
+
+Show a thin PCB smoothly bending around a curved surface.
+
+Use realistic engineering visuals.
+
+---
+
+# 14. SOFT ROBOTICS SECTION
+
+Create a dedicated section:
+
+"SOFT ELECTRONICS FOR SOFT MACHINES."
+
+Show a futuristic soft robotic hand/robot with embedded stretchable electronics.
+
+Include:
+
+* Stretchable circuits
+* Flexible sensors
+* Soft actuators
+* Wearable electronics
+* Human-machine interfaces
+* Robotic skin
+* Pressure sensing
+
+Add subtle animated deformation.
+
+The PCB should visually stretch as the robotic surface moves.
+
+---
+
+# 15. AUTONOMOUS SYSTEMS
+
+Create a large immersive section.
+
+Title:
+
+"SYSTEMS THAT THINK FOR THEMSELVES."
+
+Show an autonomous robot navigating an environment.
+
+Visual elements:
+
+* LiDAR scanning
+* Camera perception
+* Sensor fusion
+* Mapping
+* Path planning
+* Object detection
+* Navigation
+* Obstacle avoidance
+
+Animate scanning lines and mapping points.
+
+Add technical HUD labels.
+
+Keep the interface clean and minimal.
+
+---
+
+# 16. DRONES & UAVS
+
+Create a dedicated drone section.
+
+Title:
+
+"INTELLIGENCE ABOVE THE GROUND."
+
+Show a premium autonomous UAV/drone.
+
+Include:
+
+* Flight controllers
+* Navigation systems
+* GPS
+* IMU
+* Telemetry
+* Autonomous flight
+* Motor control
+* Power systems
+* Communication systems
+
+Animate the drone slowly flying through the section.
+
+Show subtle telemetry information:
+
+ALTITUDE
+SPEED
+BATTERY
+GPS
+HEADING
+SATELLITES
+
+Do not make it look like a video game HUD.
+
+Keep it engineering-focused.
+
+---
+
+# 17. PCB SHOWCASE
+
+Create a major interactive PCB portfolio section.
+
+Title:
+
+"BUILT FOR COMPLEXITY."
+
+Display several PCBs.
+
+Examples:
+
+* High-density motherboard
+* Robotics controller
+* Drone flight controller
+* Sensor board
+* AI edge-computing board
+* Power electronics board
+* Wearable PCB
+* Flex PCB
+* Rigid-flex PCB
+* 16-layer high-density PCB
+
+Allow users to hover over a PCB.
+
+On hover:
+
+* PCB slightly rotates
+* Technical overlay appears
+* Component labels appear
+* Layer information appears
+* CTA appears
+
+Example:
+
+"16-LAYER COMPUTE PLATFORM"
+
+"High-speed digital"
+
+"DDR"
+
+"USB"
+
+"PCIe"
+
+"Power Management"
+
+"RF"
+
+---
+
+# 18. PCB LAYER VISUALIZATION
+
+Create an interactive PCB layer visualization.
+
+Show an exploded PCB stack-up.
+
+Example:
+
+L1 — COMPONENT / SIGNAL
+
+L2 — GND
+
+L3 — SIGNAL
+
+L4 — POWER
+
+L5 — SIGNAL
+
+L6 — GND
+
+L7 — SIGNAL
+
+L8 — POWER
+
+L9 — SIGNAL
+
+L10 — GND
+
+L11 — SIGNAL
+
+L12 — POWER
+
+L13 — SIGNAL
+
+L14 — GND
+
+L15 — SIGNAL
+
+L16 — COMPONENT / SIGNAL
+
+Animate the layers separating slightly.
+
+When the user scrolls or hovers, the layers move apart.
+
+Add a label:
+
+"UP TO 16-LAYER ARCHITECTURES"
+
+---
+
+# 19. ENGINEERING PROCESS
+
+Create an elegant horizontal or vertical process timeline.
+
+Title:
+
+"FROM IDEA TO ENGINEERED SYSTEM."
+
+Steps:
+
+01 — DISCOVER
+
+Understand the product requirements.
+
+02 — ARCHITECT
+
+Define system architecture and technology.
+
+03 — DESIGN
+
+Create schematics, PCB, mechanical and embedded designs.
+
+04 — PROTOTYPE
+
+Build and validate the first hardware.
+
+05 — TEST
+
+Verify electrical, mechanical and software performance.
+
+06 — OPTIMIZE
+
+Improve reliability, performance and manufacturability.
+
+07 — DEPLOY
+
+Prepare the system for real-world implementation.
+
+Use connecting lines and animated nodes.
+
+---
+
+# 20. PROJECT SHOWCASE
+
+Create a premium case-study section.
+
+Title:
+
+"SELECTED ENGINEERING WORK"
+
+Create large project cards.
+
+Possible projects:
+
+### Autonomous Robotics Platform
+
+Intelligent mobile robotic platform.
+
+### High-Density Compute PCB
+
+Advanced multilayer embedded computing board.
+
+### Stretchable Robotic Electronics
+
+Elastomeric PCB for soft robotics.
+
+### UAV Flight Controller
+
+Compact autonomous flight-control electronics.
+
+### Industrial Automation Controller
+
+Embedded control and sensor integration platform.
+
+### Wearable Electronics
+
+Flexible electronics for human-machine interaction.
+
+Each project card should contain:
+
+* Large visual
+* Project category
+* Short description
+* Technologies
+* Layer count if applicable
+* Button: "View Project"
+
+---
+
+# 21. TECHNOLOGY MARQUEE
+
+Create a continuously moving technology strip.
+
+Include technologies such as:
+
+KiCad
+Altium
+STM32
+ESP32
+ARM
+RISC-V
+CAN
+CAN-FD
+USB
+Ethernet
+I2C
+SPI
+UART
+BLE
+Wi-Fi
+GNSS
+LiDAR
+IMU
+AI
+Computer Vision
+ROS
+RTOS
+
+Use clean monochrome logos/text where appropriate.
+
+---
+
+# 22. TECHNICAL STATISTICS
+
+Create a premium statistics section.
+
+Example:
+
+16+
+
+PCB LAYERS
+
+100+
+
+ENGINEERING CONCEPTS
+
+50+
+
+SYSTEM ARCHITECTURES
+
+∞
+
+POSSIBILITIES
+
+Do not invent actual company achievements if they are not provided.
+
+If these numbers are placeholders, clearly structure them so they can easily be replaced.
+
+---
+
+# 23. WHY ROBETIX
+
+Create a section:
+
+"WHY ROBETIX?"
+
+Use four large cards.
+
+### ENGINEERING-FIRST
+
+Solutions are designed around real engineering constraints.
+
+### SYSTEM THINKING
+
+Electronics, firmware, mechanics and intelligence are considered together.
+
+### MANUFACTURING READY
+
+Designs are created with real-world production considerations.
+
+### FUTURE FOCUSED
+
+We explore next-generation robotics and electronics technologies.
+
+---
+
+# 24. INTERACTIVE ENGINEERING BACKGROUND
+
+Throughout the website, use extremely subtle technical background animations.
+
+Examples:
+
+* PCB traces
+* Grid lines
+* Circuit nodes
+* Moving signal pulses
+* Tiny data points
+* Coordinate markers
+* Engineering dimensions
+* Sensor scanning
+* Robotic motion paths
+
+These should appear primarily in large sections.
+
+Do NOT cover the entire website with distracting animations.
+
+The animation should be:
+
+"quiet technology."
+
+---
+
+# 25. SCROLL ANIMATIONS
+
+Implement premium scroll-based animation.
+
+Examples:
+
+Hero:
+
+Objects slowly move upward as the user scrolls.
+
+PCB:
+
+PCB rotates slightly.
+
+Layer stack:
+
+Layers separate.
+
+Robot:
+
+Robot moves into view.
+
+Drone:
+
+Drone moves across the screen.
+
+Flex PCB:
+
+PCB bends as the user scrolls.
+
+Autonomous system:
+
+Sensor scanning expands.
+
+Statistics:
+
+Numbers animate when entering viewport.
+
+Cards:
+
+Cards fade + translate upward.
+
+Use smooth easing.
+
+Avoid excessive animation.
+
+---
+
+# 26. CURSOR INTERACTIONS
+
+Desktop users should have subtle cursor interactions.
+
+Examples:
+
+* Magnetic buttons
+* Cards follow cursor slightly
+* PCB reacts to cursor
+* Glass cards have cursor-based highlights
+* Image tilt on hover
+* Small technical indicator follows cursor
+
+Keep everything subtle.
+
+Do not create an annoying custom cursor.
+
+---
+
+# 27. GLASSMORPHISM CARDS
+
+All major cards should use a consistent design language:
+
+border-radius:
+
+24–32px
+
+Border:
+
+1px subtle translucent border
+
+Shadow:
+
+very soft
+
+Background:
+
+rgba(255,255,255,0.55–0.8)
+
+Backdrop blur:
+
+20–30px
+
+Cards should feel like premium hardware product interfaces.
+
+---
+
+# 28. BUTTON DESIGN
+
+Primary button:
+
+"Start a Project →"
+
+Style:
+
+* Rounded pill
+* Dark charcoal text/background depending on contrast
+* Subtle hover animation
+* Arrow animation
+
+Secondary:
+
+"Explore Projects →"
+
+Use transparent/glass appearance.
+
+Buttons should feel premium.
+
+---
+
+# 29. CONTACT / PROJECT CTA
+
+Create a massive final CTA.
+
+Headline:
+
+"LET'S BUILD WHAT'S NEXT."
+
+Supporting text:
+
+"Have a robotics, electronics, PCB, automation, drone or autonomous-system idea? Let's engineer it into reality."
+
+Buttons:
+
+"Start a Project"
+
+"Contact ROBETIX"
+
+Add a subtle animated PCB/robotic background.
+
+---
+
+# 30. CONTACT FORM
+
+Create a beautiful glassmorphism contact form.
+
+Fields:
+
+Name
+
+Email
+
+Company
+
+Project Type
+
+Budget
+
+Project Description
+
+Upload Project Files
+
+Submit:
+
+"Start Engineering →"
+
+Project Type dropdown:
+
+* PCB Design
+* Robotics
+* Automation
+* Embedded Systems
+* Flex PCB
+* Rigid-Flex PCB
+* Stretchable Electronics
+* Drone / UAV
+* Autonomous Systems
+* Other
+
+Make the form extremely clean.
+
+---
+
+# 31. FOOTER
+
+Footer should be minimal and premium.
+
+ROBETIX logo.
+
+Tagline:
+
+"Robotics. Electronics. Intelligence."
+
+Navigation:
+
+Solutions
+PCB Design
+Robotics
+Autonomous Systems
+Drones & UAVs
+Projects
+About
+Contact
+
+Social:
+
+LinkedIn
+Instagram
+YouTube
+GitHub
+
+Add:
+
+© 2026 ROBETIX. All rights reserved.
+
+---
+
+# 32. RESPONSIVE DESIGN
+
+The website MUST be fully responsive.
+
+Desktop:
+
+Large cinematic layouts.
+
+Tablet:
+
+Compact layouts.
+
+Mobile:
+
+Premium mobile experience.
+
+On mobile:
+
+* Navigation becomes hamburger
+* Cards become stacked
+* Animations simplified
+* Hero typography scales
+* PCB visuals remain visible
+* Buttons become full-width where appropriate
+* Horizontal marquees remain smooth
+* No horizontal overflow
+
+Test:
+
+320px
+375px
+390px
+430px
+768px
+1024px
+1440px
+1920px
+2560px
+
+---
+
+# 33. PERFORMANCE
+
+Despite the advanced visuals, the website must remain fast.
+
+Use:
+
+* Lazy loading
+* Optimized images
+* WebP/AVIF
+* Efficient animations
+* GPU-friendly transforms
+* Intersection Observer
+* Code splitting where appropriate
+* Avoid unnecessary JavaScript
+* Avoid massive video backgrounds
+
+Do not sacrifice usability for animation.
+
+---
+
+# 34. ACCESSIBILITY
+
+Implement:
+
+* Semantic HTML
+* Keyboard navigation
+* Visible focus states
+* Accessible buttons
+* Proper contrast
+* Alt text
+* Form labels
+* Reduced-motion support
+
+If user enables "prefers-reduced-motion", significantly reduce animations.
+
+---
+
+# 35. SEO
+
+Optimize the website for searches related to:
+
+PCB Design
+PCB Designer
+High Density PCB Design
+16 Layer PCB Design
+Flex PCB Design
+Rigid Flex PCB Design
+Stretchable PCB
+Robotics Engineering
+Robotics Company
+Automation Systems
+Embedded Systems
+Autonomous Robots
+Drone Development
+UAV Electronics
+Flight Controller Design
+Electronics Engineering
+Robotic PCB Design
+
+Create appropriate:
+
+* Page title
+* Meta description
+* Open Graph metadata
+* Structured data
+* Heading hierarchy
+* Image alt text
+
+Do not keyword-stuff.
+
+---
+
+# 36. WEBSITE STRUCTURE
+
+Create these pages/routes:
+
+/
+
+Home
+
+/solutions
+
+Solutions
+
+/pcb-design
+
+PCB Design
+
+/robotics
+
+Robotics
+
+/autonomous-systems
+
+Autonomous Systems
+
+/drones-uavs
+
+Drones & UAVs
+
+/flex-electronics
+
+Flex / Rigid-Flex / Stretchable Electronics
+
+/projects
+
+Projects
+
+/about
+
+About ROBETIX
+
+/contact
+
+Contact
+
+---
+
+# 37. HOME PAGE SECTION ORDER
+
+Use this exact approximate flow:
+
+1. Floating Navigation
+2. Hero
+3. Capability Marquee
+4. "From Circuit to Motion"
+5. Core Services
+6. Advanced PCB Technology
+7. Flex / Rigid-Flex / Stretchable Electronics
+8. Soft Robotics
+9. Autonomous Systems
+10. Drones & UAVs
+11. PCB Showcase
+12. 16-Layer PCB Visualization
+13. Engineering Process
+14. Selected Projects
+15. Technology Stack
+16. Why ROBETIX
+17. Final CTA
+18. Contact
+19. Footer
+
+The page should feel like one continuous story rather than unrelated sections.
+
+---
+
+# 38. VISUAL STORYTELLING
+
+The website should tell this story:
+
+IDEA
+
+↓
+
+ELECTRONICS
+
+↓
+
+PCB
+
+↓
+
+EMBEDDED INTELLIGENCE
+
+↓
+
+ROBOT
+
+↓
+
+AUTONOMY
+
+↓
+
+REAL-WORLD MOTION
+
+↓
+
+FUTURE
+
+Use visual transitions between sections so the user feels that the website is telling one engineering story.
+
+---
+
+# 39. IMPORTANT VISUAL DETAILS
+
+Add small professional details throughout the website:
+
+* Technical coordinates
+* Tiny labels
+* Engineering dimensions
+* Micro typography
+* Section numbers
+* Subtle grid
+* Status indicators
+* "SYSTEM ONLINE"
+* "ENGINEERING MODE"
+* "PCB / ROBOTICS / AUTONOMY"
+* Small arrows
+* Animated dots
+* Thin connector lines
+* Subtle scanning effects
+
+Do NOT overdo these elements.
+
+They should reward users who explore the page.
+
+---
+
+# 40. INTERACTION QUALITY
+
+Every interactive element must feel intentional.
+
+Hover:
+
+Smooth.
+
+Scroll:
+
+Smooth.
+
+Navigation:
+
+Smooth.
+
+Cards:
+
+Responsive.
+
+Buttons:
+
+Responsive.
+
+Forms:
+
+Clear.
+
+Loading:
+
+Elegant.
+
+Page transitions:
+
+Subtle.
+
+Never use:
+
+* Flashing effects
+* Excessive neon
+* Excessive particle effects
+* Random animations
+* Overly complicated HUDs
+* Gaming-style interfaces
+* Cheap-looking gradients
+* Excessive shadows
+* Excessive rounded cards
+
+---
+
+# 41. IMAGE / 3D VISUAL DIRECTION
+
+Use extremely high-quality visuals.
+
+The imagery should look like:
+
+* Real engineering photography
+* Premium 3D renders
+* High-density PCB renders
+* Advanced robotic prototypes
+* Industrial robotics
+* Autonomous vehicles
+* UAVs
+* Flexible electronics
+* Microscopic electronics
+
+Avoid generic stock images.
+
+Avoid cartoon robots.
+
+Avoid childish illustrations.
+
+Avoid generic AI-generated humanoid robots.
+
+The visual language should communicate:
+
+"These people actually engineer hardware."
+
+---
+
+# 42. PCB VISUAL REQUIREMENTS
+
+PCB visuals are extremely important.
+
+PCBs should look physically realistic.
+
+Include:
+
+* Real copper traces
+* Solder mask
+* Silkscreen
+* Vias
+* IC packages
+* BGA
+* QFN
+* SMD passives
+* Connectors
+* Test points
+* Mounting holes
+* Ground planes
+* Dense routing
+* High-speed differential pairs
+
+Show different PCB types.
+
+The PCB visuals must not look like random decorative circuit boards.
+
+They should resemble professionally engineered electronics.
+
+---
+
+# 43. ROBOT VISUAL REQUIREMENTS
+
+Robots should look technically believable.
+
+Use:
+
+* Industrial robotic arms
+* Mobile robots
+* Autonomous ground vehicles
+* Soft robots
+* Inspection robots
+* Compact service robots
+
+Include realistic sensors:
+
+* Cameras
+* LiDAR
+* IMU
+* Encoders
+* Ultrasonic sensors
+* Depth sensors
+
+Avoid unrealistic sci-fi weapons or humanoid robots.
+
+---
+
+# 44. DESIGN SYSTEM CONSISTENCY
+
+Create a reusable design system.
+
+Components:
+
+Navbar
+Button
+GlassCard
+ServiceCard
+ProjectCard
+TechnologyBadge
+SectionHeader
+MetricCard
+TimelineStep
+PCBViewer
+ContactForm
+Footer
+Marquee
+AnimatedTechnicalBackground
+
+All components must share:
+
+* Typography
+* Spacing
+* Border radius
+* Shadows
+* Borders
+* Animation timing
+* Interaction behavior
+
+---
+
+# 45. TECHNICAL IMPLEMENTATION
+
+If using React:
+
+Use:
+
+React
+TypeScript
+Tailwind CSS
+Framer Motion
+
+For 3D/interactive scenes where necessary:
+
+Three.js / React Three Fiber
+
+Use Three.js only where it genuinely improves the experience.
+
+Do not make the entire website a heavy WebGL application.
+
+Use CSS and SVG animations wherever possible.
+
+---
+
+# 46. CODE QUALITY
+
+The code must be:
+
+* Modular
+* Maintainable
+* Component-based
+* Well structured
+* Responsive
+* Production-oriented
+* SEO friendly
+* Accessible
+
+Do not put the entire website into one enormous component.
+
+Use reusable components.
+
+---
+
+# 47. MOBILE-FIRST QUALITY
+
+The mobile website must not feel like a reduced desktop version.
+
+Design dedicated mobile compositions.
+
+For example:
+
+Hero:
+
+Large headline + compact PCB visual.
+
+Services:
+
+Swipeable cards.
+
+Projects:
+
+Vertical cards.
+
+PCB layer visualization:
+
+Scrollable/interactive stack.
+
+Technology:
+
+Horizontal marquee.
+
+CTA:
+
+Large touch-friendly button.
+
+---
+
+# 48. FINAL DESIGN TARGET
+
+The final website should feel like a combination of:
+
+Premium technology startup
+
+*
+
+Advanced robotics laboratory
+
+*
+
+Professional PCB engineering company
+
+*
+
+Autonomous systems company
+
+*
+
+Industrial design studio
+
+*
+
+Futuristic hardware company
+
+The result must feel **expensive, sophisticated, technically credible and memorable**.
+
+A visitor should immediately think:
+
+"ROBETIX builds serious robotics and electronics technology."
+
+---
+
+# 49. MOST IMPORTANT PRIORITIES
+
+Prioritize these in order:
+
+1. Premium visual design
+2. Excellent UI/UX
+3. Strong first impression
+4. High-quality robotics and PCB visuals
+5. Smooth animation
+6. Clear service presentation
+7. Professional engineering credibility
+8. Mobile responsiveness
+9. Fast performance
+10. Accessibility
+11. SEO
+12. Conversion-focused CTAs
+
+Do not sacrifice usability for visual effects.
+
+---
+
+# 50. FINAL INSTRUCTION TO THE WEBSITE BUILDER
+
+Do not generate a generic robotics landing page.
+
+Do not use a standard SaaS template.
+
+Do not use a dark cyberpunk theme.
+
+Do not use excessive neon.
+
+Do not use generic stock robotics imagery.
+
+Do not create childish cartoon robots.
+
+Do not fill every section with cards.
+
+Do not make every element animated.
+
+Instead, create an **original, premium, light-theme, glassmorphism robotics and electronics experience inspired by the provided Pinterest reference**.
+
+The website should have:
+
+**Clean white space + sophisticated typography + premium glass UI + realistic robotics + realistic PCBs + subtle technical graphics + smooth motion + intelligent interactions + strong storytelling.**
+
+The overall visual feeling should be:
+
+**MINIMAL × ENGINEERING × ROBOTICS × ELECTRONICS × FUTURE**
+
+The final result should be polished enough to serve as the **official flagship website for ROBETIX** and should be designed to convert visitors into engineering clients.
+
+Make the website feel like a company that can take a concept from:
+
+**"IDEA → SCHEMATIC → PCB → PROTOTYPE → ROBOT → AUTONOMOUS SYSTEM → REAL-WORLD PRODUCT."**
